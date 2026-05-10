@@ -1,0 +1,7 @@
+replicaCount: 1
+
+image:
+  repository: docker.io/sujith1913/img
+  tag: "latest"
+
+containerPort: 8080
