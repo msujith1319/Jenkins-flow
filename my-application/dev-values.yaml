@@ -2,6 +2,6 @@ replicaCount: 1
 
 image:
   repository: docker.io/sujith1913/img
-  tag: "latest"
+  tag: "32"
 
 containerPort: 8080
