@@ -1,5 +1,5 @@
 replicaCount: 1
 image:
   repository: docker.io/sujith1913/img
-  tag: "4"
+  tag: "5"
 containerPort: 8080
